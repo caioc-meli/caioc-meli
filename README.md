@@ -7,11 +7,11 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://caioc.medium.com/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/caioc)
 
-Glad to see your here 🤩 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=caioc_meli.visitor-badge)
+Glad to see your here 🤩 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=caioc-meli.visitor-badge)
 
-![CaioC's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioc_meli&show_icons=true&theme=chartreuse-dark&count_private=true)
+![CaioC's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioc-meli&show_icons=true&theme=chartreuse-dark&count_private=true)
 
-![CaioC Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=caioc_meli&count_private=true&theme=chartreuse-dark)
+![CaioC Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=caioc-meli&count_private=true&theme=chartreuse-dark)
 
 
 <!--
